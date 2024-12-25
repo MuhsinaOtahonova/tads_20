@@ -1,0 +1,890 @@
+[
+    {
+        "id": 0,
+        "name": "misirli_salata",
+        "fiyat": 33,
+        "cal": 110
+    },
+    {
+        "id": 1,
+        "name": "amerikan_salata",
+        "fiyat": 33,
+        "cal": 245
+    },
+    {
+        "id": 2,
+        "name": "anali_kizli",
+        "fiyat": 33,
+        "cal": 155
+    },
+    {
+        "id": 3,
+        "name": "antep_soleni",
+        "fiyat": 33,
+        "cal": 290
+    },
+    {
+        "id": 4,
+        "name": "arnavut_cigeri",
+        "fiyat": 100,
+        "cal": 370
+    },
+    {
+        "id": 5,
+        "name": "ayran",
+        "fiyat": 33,
+        "cal": 80
+    },
+    {
+        "id": 6,
+        "name": "baklava",
+        "fiyat": 33,
+        "cal": 369
+    },
+    {
+        "id": 7,
+        "name": "balik_izgara",
+        "fiyat": 100,
+        "cal": 370
+    },
+    {
+        "id": 8,
+        "name": "bamya_corba",
+        "fiyat": 26,
+        "cal": 46
+    },
+    {
+        "id": 9,
+        "name": "biber_dolma",
+        "fiyat": 100,
+        "cal": 225
+    },
+    {
+        "id": 10,
+        "name": "brokoli_salatasi",
+        "fiyat": 33,
+        "cal": 100
+    },
+    {
+        "id": 11,
+        "name": "browni",
+        "fiyat": 33,
+        "cal": 319
+    },
+    {
+        "id": 12,
+        "name": "bugday_ekmek",
+        "fiyat": 5,
+        "cal": 124
+    },
+    {
+        "id": 13,
+        "name": "bulbul_yuvasi",
+        "fiyat": 33,
+        "cal": 385
+    },
+    {
+        "id": 14,
+        "name": "bulgur_pilavi",
+        "fiyat": 33,
+        "cal": 270
+    },
+    {
+        "id": 15,
+        "name": "but_kizartma",
+        "fiyat": 100,
+        "cal": 395
+    },
+    {
+        "id": 16,
+        "name": "buyuk_salata",
+        "fiyat": 92,
+        "cal": 200
+    },
+    {
+        "id": 17,
+        "name": "cacik",
+        "fiyat": 33,
+        "cal": 110
+    },
+    {
+        "id": 18,
+        "name": "cig_kofte",
+        "fiyat": 33,
+        "cal": 181
+    },
+    {
+        "id": 19,
+        "name": "cikolatali_baklava",
+        "fiyat": 33,
+        "cal": 295
+    },
+    {
+        "id": 20,
+        "name": "coban_salata",
+        "fiyat": 33,
+        "cal": 85
+    },
+    {
+        "id": 21,
+        "name": "cop_sis",
+        "fiyat": 100,
+        "cal": 330
+    },
+    {
+        "id": 22,
+        "name": "dalyan_kofte",
+        "fiyat": 100,
+        "cal": 275
+    },
+    {
+        "id": 23,
+        "name": "dilim_pasta",
+        "fiyat": 33,
+        "cal": 420
+    },
+    {
+        "id": 24,
+        "name": "domates_corbasi",
+        "fiyat": 26,
+        "cal": 150
+    },
+    {
+        "id": 25,
+        "name": "duble_salata",
+        "fiyat": 33,
+        "cal": 105
+    },
+    {
+        "id": 26,
+        "name": "ekmek",
+        "fiyat": 5,
+        "cal": 128
+    },
+    {
+        "id": 27,
+        "name": "ekmek_kadayifi",
+        "fiyat": 33,
+        "cal": 564
+    },
+    {
+        "id": 28,
+        "name": "elma",
+        "fiyat": 33,
+        "cal": 95
+    },
+    {
+        "id": 29,
+        "name": "enginar",
+        "fiyat": 33,
+        "cal": 165
+    },
+    {
+        "id": 30,
+        "name": "eriste",
+        "fiyat": 33,
+        "cal": 275
+    },
+    {
+        "id": 31,
+        "name": "et_doner",
+        "fiyat": 100,
+        "cal": 415
+    },
+    {
+        "id": 32,
+        "name": "etli_bamya",
+        "fiyat": 100,
+        "cal": 175
+    },
+    {
+        "id": 33,
+        "name": "etli_bezelye",
+        "fiyat": 100,
+        "cal": 270
+    },
+    {
+        "id": 34,
+        "name": "etli_dugun_corbasi",
+        "fiyat": 26,
+        "cal": 170
+    },
+    {
+        "id": 35,
+        "name": "etli_patates",
+        "fiyat": 100,
+        "cal": 285
+    },
+    {
+        "id": 36,
+        "name": "etsiz_bamya",
+        "fiyat": 33,
+        "cal": 105
+    },
+    {
+        "id": 37,
+        "name": "etsiz_bamya",
+        "fiyat": 75,
+        "cal": 105
+    },
+    {
+        "id": 38,
+        "name": "etsiz_karnibahar",
+        "fiyat": 73,
+        "cal": 200
+    },
+    {
+        "id": 39,
+        "name": "etsiz_nohut",
+        "fiyat": 73,
+        "cal": 280
+    },
+    {
+        "id": 40,
+        "name": "etsiz_sarma",
+        "fiyat": 33,
+        "cal": 210
+    },
+    {
+        "id": 41,
+        "name": "ezogelin_corbasi",
+        "fiyat": 26,
+        "cal": 165
+    },
+    {
+        "id": 42,
+        "name": "fatih_sarmasi",
+        "fiyat": 33,
+        "cal": 445
+    },
+    {
+        "id": 43,
+        "name": "firin_kofte",
+        "fiyat": 100,
+        "cal": 335
+    },
+    {
+        "id": 44,
+        "name": "firin_makarna",
+        "fiyat": 33,
+        "cal": 300
+    },
+    {
+        "id": 45,
+        "name": "firin_sutlac",
+        "fiyat": 33,
+        "cal": 300
+    },
+    {
+        "id": 46,
+        "name": "gazoz",
+        "fiyat": 33,
+        "cal": 106
+    },
+    {
+        "id": 47,
+        "name": "guvecte_bruksel_lahana",
+        "fiyat": 100,
+        "cal": 120
+    },
+    {
+        "id": 48,
+        "name": "halka_tatlisi",
+        "fiyat": 33,
+        "cal": 305
+    },
+    {
+        "id": 49,
+        "name": "hasanpasa_kofte",
+        "fiyat": 100,
+        "cal": 320
+    },
+    {
+        "id": 50,
+        "name": "hasbahce_tatlisi",
+        "fiyat": 33,
+        "cal": 290
+    },
+    {
+        "id": 51,
+        "name": "havuc_turp_salatasi",
+        "fiyat": 33,
+        "cal": 59
+    },
+    {
+        "id": 52,
+        "name": "havuclu_meze",
+        "fiyat": 33,
+        "cal": 151
+    },
+    {
+        "id": 53,
+        "name": "ic_pilavli_tavuk_sarma",
+        "fiyat": 100,
+        "cal": 310
+    },
+    {
+        "id": 54,
+        "name": "icecek",
+        "fiyat": 33,
+        "cal": 80
+    },
+    {
+        "id": 55,
+        "name": "icli_kofte",
+        "fiyat": 100,
+        "cal": 233
+    },
+    {
+        "id": 56,
+        "name": "islim_kofte",
+        "fiyat": 100,
+        "cal": 330
+    },
+    {
+        "id": 57,
+        "name": "izgara_biftek",
+        "fiyat": 100,
+        "cal": 345
+    },
+    {
+        "id": 58,
+        "name": "izgara_kofte",
+        "fiyat": 100,
+        "cal": 370
+    },
+    {
+        "id": 59,
+        "name": "izmir_kofte",
+        "fiyat": 100,
+        "cal": 385
+    },
+    {
+        "id": 60,
+        "name": "juse_tea",
+        "fiyat": 33,
+        "cal": 96
+    },
+    {
+        "id": 61,
+        "name": "kabak_tatli",
+        "fiyat": 33,
+        "cal": 139
+    },
+    {
+        "id": 62,
+        "name": "kadayif",
+        "fiyat": 33,
+        "cal": 366
+    },
+    {
+        "id": 63,
+        "name": "kadin_budu_kofte",
+        "fiyat": 100,
+        "cal": 530
+    },
+    {
+        "id": 64,
+        "name": "kagit_kebabi",
+        "fiyat": 100,
+        "cal": 435
+    },
+    {
+        "id": 65,
+        "name": "kazandibi",
+        "fiyat": 33,
+        "cal": 227
+    },
+    {
+        "id": 66,
+        "name": "kekli_sokella",
+        "fiyat": 33,
+        "cal": 275
+    },
+    {
+        "id": 67,
+        "name": "kemalpasa_tatlisi",
+        "price": 33,
+        "calories": 400
+    },
+    {
+        "id": 68,
+        "name": "kepekli_ekmek",
+        "price": 5,
+        "calories": 128
+    },
+    {
+        "id": 69,
+        "name": "keskul",
+        "price": 33,
+        "calories": 295
+    },
+    {
+        "id": 70,
+        "name": "kesme_asi_corbasi",
+        "price": 26,
+        "calories": 155
+    },
+    {
+        "id": 71,
+        "name": "kirmizi_mercimek_corbasi",
+        "price": 26,
+        "calories": 155
+    },
+    {
+        "id": 72,
+        "name": "kis_turlusu",
+        "price": 100,
+        "calories": 220
+    },
+    {
+        "id": 73,
+        "name": "kisir",
+        "price": 33,
+        "calories": 170
+    },
+    {
+        "id": 74,
+        "name": "kiymali_lahana_sarma",
+        "price": 100,
+        "calories": 250
+    },
+    {
+        "id": 75,
+        "name": "kiymali_pide",
+        "price": 100,
+        "calories": 356
+    },
+    {
+        "id": 76,
+        "name": "kola",
+        "price": 33,
+        "calories": 108
+    },
+    {
+        "id": 77,
+        "name": "kola",
+        "price": 33,
+        "calories": 80
+    },
+    {
+        "id": 78,
+        "name": "komposto",
+        "price": 33,
+        "calories": 155
+    },
+    {
+        "id": 79,
+        "name": "korili_tavuk",
+        "price": 100,
+        "calories": 405
+    },
+    {
+        "id": 80,
+        "name": "kremali_mantar_corbasi",
+        "price": 26,
+        "calories": 105
+    },
+    {
+        "id": 81,
+        "name": "kurufasulye",
+        "price": 75,
+        "calories": 280
+    },
+    {
+        "id": 82,
+        "name": "lahmacun",
+        "price": 100,
+        "calories": 221
+    },
+    {
+        "id": 83,
+        "name": "link_cilekli_meyve_suyu",
+        "price": 33,
+        "calories": 29
+    },
+    {
+        "id": 84,
+        "name": "link_seftali_meyve_suyu",
+        "price": 33,
+        "calories": 29
+    },
+    {
+        "id": 85,
+        "name": "link_visneli_meyve_suyu",
+        "price": 33,
+        "calories": 32
+    },
+    {
+        "id": 86,
+        "name": "makarna",
+        "price": 33,
+        "calories": 255
+    },
+    {
+        "id": 87,
+        "name": "makarna_salatasi",
+        "price": 33,
+        "calories": 270
+    },
+    {
+        "id": 88,
+        "name": "mandalina",
+        "price": 33,
+        "calories": 60
+    },
+    {
+        "id": 89,
+        "name": "mantar_sebze_sote",
+        "price": 100,
+        "calories": 235
+    },
+    {
+        "id": 90,
+        "name": "mantarli_et_sote",
+        "price": 100,
+        "calories": 320
+    },
+    {
+        "id": 91,
+        "name": "manti",
+        "price": 100,
+        "calories": 485
+    },
+    {
+        "id": 92,
+        "name": "mercimek_corbasi",
+        "price": 26,
+        "calories": 155
+    },
+    {
+        "id": 93,
+        "name": "mevsim_salata",
+        "price": 33,
+        "calories": 105
+    },
+    {
+        "id": 94,
+        "name": "meyve_suyu",
+        "price": 33,
+        "calories": 80
+    },
+    {
+        "id": 95,
+        "name": "muzlu_magnolia",
+        "price": 33,
+        "calories": 350
+    },
+    {
+        "id": 96,
+        "name": "orman_kebabi",
+        "price": 100,
+        "calories": 200
+    },
+    {
+        "id": 97,
+        "name": "orman_kebabi",
+        "price": 100,
+        "calories": 295
+    },
+    {
+        "id": 98,
+        "name": "patates_musakka",
+        "price": 100,
+        "calories": 325
+    },
+    {
+        "id": 99,
+        "name": "patlican_ezme",
+        "price": 33,
+        "calories": 88
+    },
+    {
+        "id": 100,
+        "name": "patlican_kebabi",
+        "price": 100,
+        "calories": 385
+    },
+    {
+        "id": 101,
+        "name": "patlican_kizartma",
+        "price": 33,
+        "calories": 150
+    },    
+    {
+        "id": 102,
+        "name": "patlican_musakka",
+        "price": 100,
+        "calories": 300
+    },
+    {
+        "id": 103,
+        "name": "pembe_sultan_mezesi",
+        "price": 33,
+        "calories": 200
+    },
+    {
+        "id": 104,
+        "name": "pide",
+        "price": 5,
+        "calories": 67
+    },
+    {
+        "id": 105,
+        "name": "pilic_baget",
+        "price": 100,
+        "calories": 320
+    },
+    {
+        "id": 106,
+        "name": "pilic_graten",
+        "price": 100,
+        "calories": 350
+    },
+    {
+        "id": 107,
+        "name": "pilic_sinitzel",
+        "price": 100,
+        "calories": 480
+    },
+    {
+        "id": 108,
+        "name": "pilic_sis",
+        "price": 100,
+        "calories": 330
+    },
+    {
+        "id": 109,
+        "name": "pilic_sote",
+        "price": 100,
+        "calories": 430
+    },
+    {
+        "id": 110,
+        "name": "pilic_sultaniye",
+        "price": 100,
+        "calories": 400
+    },
+    {
+        "id": 111,
+        "name": "pilic_topkapi",
+        "price": 100,
+        "calories": 435
+    },
+    {
+        "id": 112,
+        "name": "pirasa",
+        "price": 33,
+        "calories": 190
+    },
+    {
+        "id": 113,
+        "name": "pirinc_pilavi",
+        "price": 33,
+        "calories": 420
+    },
+    {
+        "id": 114,
+        "name": "portakal",
+        "price": 33,
+        "calories": 101
+    },
+    {
+        "id": 115,
+        "name": "portakal_meyve_suyu",
+        "price": 33,
+        "calories": 80
+    },
+    {
+        "id": 116,
+        "name": "puding",
+        "price": 33,
+        "calories": 132
+    },
+    {
+        "id": 117,
+        "name": "pureli_et",
+        "price": 100,
+        "calories": 350
+    },
+    {
+        "id": 118,
+        "name": "pureli_mis_kofte",
+        "price": 100,
+        "calories": 335
+    },
+    {
+        "id": 119,
+        "name": "pureli_rosto_kofte",
+        "price": 100,
+        "calories": 315
+    },
+    {
+        "id": 120,
+        "name": "pureli_tavuk_kulbasti",
+        "price": 100,
+        "calories": 360
+    },
+    {
+        "id": 121,
+        "name": "rus_salatasi",
+        "price": 33,
+        "calories": 110
+    },
+    {
+        "id": 122,
+        "name": "sebze_corbasi",
+        "price": 26,
+        "calories": 120
+    },
+    {
+        "id": 123,
+        "name": "sebze_graten",
+        "price": 73,
+        "calories": 295
+    },
+    {
+        "id": 124,
+        "name": "sebzeli_kebab",
+        "price": 100,
+        "calories": 340
+    },
+    {
+        "id": 125,
+        "name": "sekerpare",
+        "price": 33,
+        "calories": 295
+    },
+    {
+        "id": 126,
+        "name": "semizotu_salata",
+        "price": 33,
+        "calories": 45
+    },
+    {
+        "id": 127,
+        "name": "sobiyet",
+        "price": 33,
+        "calories": 370
+    },
+    {
+        "id": 128,
+        "name": "soda",
+        "price": 33,
+        "calories": 0
+    },
+    {
+        "id": 129,
+        "name": "soslu_makarna",
+        "price": 33,
+        "calories": 255
+    },
+    {
+        "id": 130,
+        "name": "soslu_manti",
+        "price": 100,
+        "calories": 485
+    },
+    {
+        "id": 131,
+        "name": "soslu_sp_makarna",
+        "price": 33,
+        "calories": 215
+    },
+    {
+        "id": 132,
+        "name": "su",
+        "price": 5,
+        "calories": 0
+    },
+    {
+        "id": 133,
+        "name": "su_boregi",
+        "price": 33,
+        "calories": 400
+    },
+    {
+        "id": 134,
+        "name": "sutlac",
+        "price": 33,
+        "calories": 220
+    },
+    {
+        "id": 135,
+        "name": "tavuk_doner",
+        "price": 100,
+        "calories": 480
+    },
+    {
+        "id": 136,
+        "name": "tavuk_julien",
+        "price": 100,
+        "calories": 280
+    },
+    {
+        "id": 137,
+        "name": "tavuk_kulbasti",
+        "price": 100,
+        "calories": 274
+    },
+    {
+        "id": 138,
+        "name": "tavuk_sote",
+        "price": 100,
+        "calories": 345
+    },
+    {
+        "id": 139,
+        "name": "taze_fasulye",
+        "price": 75,
+        "calories": 135
+    },
+    {
+        "id": 140,
+        "name": "tel_sehriye_corbasi",
+        "price": 26,
+        "calories": 160
+    },
+    {
+        "id": 141,
+        "name": "trilece",
+        "price": 33,
+        "calories": 301
+    },
+    {
+        "id": 142,
+        "name": "tulumba",
+        "price": 33,
+        "calories": 305
+    },
+    {
+        "id": 143,
+        "name": "tursu",
+        "price": 33,
+        "calories": 64
+    },
+    {
+        "id": 144,
+        "name": "uzum",
+        "price": 33,
+        "calories": 49
+    },
+    {
+        "id": 145,
+        "name": "yesil_salata",
+        "price": 33,
+        "calories": 105
+    },
+    {
+        "id": 146,
+        "name": "yogurt",
+        "price": 33,
+        "calories": 126
+    },
+    {
+        "id": 147,
+        "name": "yogurtlu_doner",
+        "price": 100,
+        "calories": 290
+    }
+]
