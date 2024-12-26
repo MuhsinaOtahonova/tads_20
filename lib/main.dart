@@ -116,29 +116,29 @@ class _HomePageState extends State<HomePage> {
         detectedFood.where((food) => food['type'] == 'Etli ana yemek').length;
 
     // Menü 2 için koşul
-    if (etsizYemekCount == 1 &&
-        yardimciYemekCount == 1 &&
-        ekmekCount == 1 &&
-        suCount == 1) {
+    if (getTotalPrice() == 111) {
+      return 'Menü 2';
+    } else if (getTotalPrice() == 118) {
       return 'Menü 2';
     }
     // Menü 3 için koşul
-    else if (etsizYemekCount == 1 &&
-        yardimciYemekCount == 0 &&
-        ekmekCount == 1 &&
-        suCount == 1) {
+    else if (getTotalPrice() == 85) {
       return 'Menü 3';
     }
     // Fix Menü için koşul
-    else if (etsizYemekCount == 1 && yardimciYemekCount == 3) {
+    else if (getTotalPrice() == 192) {
       return 'Fix Menü';
-    } else if (etliYemekCount == 1 && yardimciYemekCount == 1) {
+    } else if (getTotalPrice() == 199) {
+      return 'Fix Menü';
+    } else if (getTotalPrice() == 202) {
+      return 'Fix Menü';
+    } else if (getTotalPrice() == 209) {
       return 'Fix Menü';
     }
     // Menü 1 için koşul
-    else if (etliYemekCount == 1 &&
-        yardimciYemekCount == 1 &&
-        ekmekCount == 1) {
+    else if (getTotalPrice() == 136) {
+      return 'Menü 1';
+    } else if (getTotalPrice() == 143) {
       return 'Menü 1';
     }
     return 'Menü Değil';
